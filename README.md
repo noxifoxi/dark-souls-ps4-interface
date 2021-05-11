@@ -19,14 +19,20 @@ These textures replace the default Xbox 360 buttons with PS4 buttons and should 
 **PS4 Buttons**  
 Main version (if you are unsure, download this version)
 
+────────────────────────────────────────  
+
 ![small](meta/versions-small.png)  
 **PS4 Buttons - Small**  
 Smaller version of the buttons. Recommended if the default dimensions feel oversized.
 Some buttons could appear too small on resolutions below 1080p.
 
+────────────────────────────────────────  
+
 ![DSR Touchpad](meta/versions-dsr-touchpad.png)  
 **PS4 Buttons - DSR**  
 Dark Souls: Remastered PS4 buttons with touchpad icons for Share and Options.
+
+────────────────────────────────────────  
 
 ![DSR Buttons](meta/versions-dsr-button.png)  
 **PS4 Buttons - DSR (Buttons)**  
